@@ -9,23 +9,23 @@ This repository contains an implementation of a **CNN-LSTM model** designed for 
 
 📜 Code Explanation
 
-##🔹 experiment.py
+## 🔹 experiment.py
 Main script for training and evaluating the model.
 
-🔹 datasetLoader.py
+## 🔹 datasetLoader.py
 Loads and preprocesses seismic datasets.
 Handles signal normalization, augmentation, and batching.
 
-🔹 CNNLSTM.py
+## 🔹 CNNLSTM.py
 Defines the CNN-LSTM model architecture.
 
-🔹 utils.py
+## 🔹 utils.py
 Implements cross-validation and signal processing functions.
 Handles feature extraction, normalization, and other utilities.
 
-📊 Results & Logs
+## 📊 Results & Logs
 Training results and evaluation metrics are saved inside the exps/ folder.
 Logs can be found in the exps/ directory for further analysis.
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
