@@ -7,3 +7,4 @@ This repository contains an implementation of a **CNN-LSTM model** designed for 
 
 ## 📁 Project Structure  
 
+📂 project_root/ │── 📄 README.md # Project documentation │── 📄 experiment.py # Main scripts for running experiments │── 📄 datasetLoader.py # Data processing and loading functions │── 📄 CNNLSTM.py # The CNN-LSTM model architecture │── 📄 utils.py # Cross-validation and signal preprocessing utilities │── 📂 data/ # Folder for raw and processed seismic datasets │── 📂 results/ # Folder to store experiment results │── 📂 logs/ # Training logs and performance metrics
