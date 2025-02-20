@@ -1,1 +1,1 @@
-# CNNLSTM_DeepEQ
+# CNNLSTM DeepEQ
