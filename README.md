@@ -5,8 +5,21 @@
 ## 📌 Overview  
 This repository contains an implementation of a **CNN-LSTM model** designed for seismic signal processing. It includes scripts for **data preprocessing, model training, cross-validation, and signal processing**.  
 
-## 📁 Project Structure  
+## 📂 Experiment Folders  
 
+### 🟢 `CNNLSTM_Pwave/`  
+- This experiment adjusts seismic signals **around the P-wave arrival**.  
+
+### 🔵 `CNNLSTM_SP_EQT/`  
+- Uses **P-wave arrival time** as additional input information.  
+- **EQT dataset** is used for **both training and testing**.   
+
+### 🟠 `CNNLSTM_SP_stTEST/`  
+- Similar to `CNNLSTM_SP_EQT/`, but uses **manually labeled** seismic data as the **test set**.  
+
+### 🔴 `CNNLSTM_TRANSFER/`  
+- Implements **transfer learning** by using **pretrained weights** from previous experiments.  
+  
 📜 Code Explanation
 
 ## 🔹 experiment.py
