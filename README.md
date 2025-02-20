@@ -20,7 +20,7 @@ This repository contains an implementation of a **CNN-LSTM model** designed for 
 ### 🔴 `CNNLSTM_TRANSFER/`  
 - Implements **transfer learning** by using **pretrained weights** from previous experiments.  
   
-📜 Code Explanation
+# 📜 Code Explanation
 
 ## 🔹 experiment.py
 Main script for training and evaluating the model.
