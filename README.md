@@ -9,7 +9,7 @@ This repository contains an implementation of a **CNN-LSTM model** designed for 
 
 📜 Code Explanation
 
-🔹 experiment.py
+##🔹 experiment.py
 Main script for training and evaluating the model.
 
 🔹 datasetLoader.py
