@@ -20,7 +20,7 @@ Features: Includes ground acceleration time series and metadata, such as event m
 ## 📂 Experiment Folders  
 
 ### 🟢 `CNNLSTM_Pwave/`  
-- This experiment adjusts seismic signals **around the P-wave arrival**.  
+- This experiment adjusts seismic signals **around the P-wave arrival time**.  
 
 ### 🔵 `CNNLSTM_SP_EQT/`  
 - Uses **P-wave arrival time** as additional input information.  
